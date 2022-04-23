@@ -1,0 +1,11 @@
+2022-04-23 23:49:32.063 INFO client - login: logging in using static token
+2022-04-23 23:49:32.481 INFO gateway - identify: Shard ID None has sent the IDENTIFY payload.
+2022-04-23 23:49:32.639 INFO gateway - received_message: Shard ID None has connected to Gateway: ["gateway-prd-main-g94v",{"micros":64469,"calls":["discord-sessions-blue-prd-2-58",{"micros":63509,"calls":["start_session",{"micros":42894,"calls":["discord-api-59dffdb7f6-bx5qp",{"micros":38145,"calls":["get_user",{"micros":9245},"add_authorized_ip",{"micros":4472},"get_guilds",{"micros":3621},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12295,"calls":[]}]}]}] (Session ID: 7f4c0b6eb078b573564bdb4e45633495).
+2022-04-23 23:49:34.661 INFO bot - on_ready: le Bot a réussi à se connecter.
+2022-04-23 23:49:42.827 INFO bot - on_message: le membre mokrani#2782 a utiliser la commande !localisation pour cette IP : 8.8.8.8 
+2022-04-23 23:49:46.859 INFO bot - on_message: le membre mokrani#2782 a génerer un nombre entre 10 et 20
+2022-04-23 23:50:49.247 INFO client - run: Received signal to terminate bot and event loop.
+2022-04-23 23:50:49.247 INFO client - run: Cleaning up tasks.
+2022-04-23 23:50:49.247 INFO client - _cancel_tasks: Cleaning up after 1 tasks.
+2022-04-23 23:50:49.260 INFO client - _cancel_tasks: All tasks finished cancelling.
+2022-04-23 23:50:49.261 INFO client - _cleanup_loop: Closing the event loop.
